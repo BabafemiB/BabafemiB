@@ -1,4 +1,4 @@
-Senior DevOps with experience of 8+ years, committed to maintaining cutting-edge technical skills and up-to-date industry knowledge.
+Senior DevOps Engineer with experience of 8+ years, committed to maintaining cutting-edge technical skills and up-to-date industry knowledge.
 
 **Skills:**
 Azure: Azure DevOps, Azure security, Azure Solution Architect technologies, Azure PIM, Conditional access, Azure B2C, Azure
