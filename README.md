@@ -2,9 +2,10 @@
 
 # Hi, I'm Babafemi Bulugbe
 
-### Senior Cloud &amp; DevOps Engineer · Cloud Security · Microsoft MVP (DevOps)
+### Senior Cloud &amp; DevOps Engineer · Security · FinOps · AI · Microsoft MVP (DevOps)
 
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP%20(DevOps)-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/8b96cc16-2bed-4e38-86ff-89620ee0370c)
+[![Location](https://img.shields.io/badge/UK-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://babafemibulugbe.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fembug)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@techtalkwithbabafemi)
@@ -18,7 +19,7 @@
 
 Senior Cloud &amp; DevOps Engineer with **8+ years** designing, securing, and automating enterprise and regulated cloud platforms. I work across **Azure** (primary) and **AWS** with a strong focus on **cloud security** — identity and access management, landing-zone guardrails, infrastructure as code, and embedding security into CI/CD pipelines.
 
-I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as much about lifting others as I do about building systems — through community leadership, technical training, and writing.
+I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as much about lifting others as I do about building systems through community leadership, technical training, and writing. My current focus is expanding into **FinOps** (cloud financial management) and **AI** engineering AI-enabled workloads and governing them securely and cost-effectively.
 
 ---
 
@@ -28,7 +29,9 @@ I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as
 - **Landing zones, guardrails &amp; governance** — baseline configurations aligned to the Well-Architected and Cloud Adoption Frameworks
 - **Infrastructure as Code** — reusable Terraform modules and standardised provisioning across multi-environment estates
 - **Secure CI/CD** — platform design with Azure DevOps and GitHub Actions, embedding security gates into delivery workflows
-- **Observability &amp; cost optimisation** — monitoring, threat detection, and remediation across cloud workloads
+- **FinOps** — cloud financial management, rightsizing, and cost governance to keep spend predictable and accountable
+- **AI engineering &amp; governance** — building AI-enabled workloads and applying security &amp; governance guardrails to them (Azure AI / Azure OpenAI)
+- **Observability** — monitoring, threat detection, and remediation across cloud workloads
 
 ---
 
@@ -64,6 +67,14 @@ I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+**AI &amp; FinOps**
+
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FinOps](https://img.shields.io/badge/FinOps-2B7A78?style=for-the-badge&logoColor=white)
 
 **Languages &amp; Scripting**
 
