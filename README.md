@@ -25,13 +25,13 @@ I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as
 
 ## What I Focus On
 
-- **Cloud security &amp; identity** — IAM &amp; least privilege, RBAC, federated SSO (SAML / OIDC), Microsoft Entra ID, cross-tenant &amp; cross-account access
-- **Landing zones, guardrails &amp; governance** — baseline configurations aligned to the Well-Architected and Cloud Adoption Frameworks
-- **Infrastructure as Code** — reusable Terraform modules and standardised provisioning across multi-environment estates
-- **Secure CI/CD** — platform design with Azure DevOps and GitHub Actions, embedding security gates into delivery workflows
-- **FinOps** — cloud financial management, rightsizing, and cost governance to keep spend predictable and accountable
-- **AI engineering &amp; governance** — building AI-enabled workloads and applying security &amp; governance guardrails to them (Azure AI / Azure OpenAI)
-- **Observability** — monitoring, threat detection, and remediation across cloud workloads
+- **Cloud security &amp; identity**: IAM &amp; least privilege, RBAC, federated SSO (SAML / OIDC), Microsoft Entra ID, cross-tenant &amp; cross-account access
+- **Landing zones, guardrails &amp; governance**: baseline configurations aligned to the Well-Architected and Cloud Adoption Frameworks
+- **Infrastructure as Code**: reusable Terraform modules and standardised provisioning across multi-environment estates
+- **Secure CI/CD**: platform design with Azure DevOps and GitHub Actions, embedding security gates into delivery workflows
+- **FinOps**: cloud financial management, rightsizing, and cost governance to keep spend predictable and accountable
+- **AI engineering &amp; governance**: building AI-enabled workloads and applying security &amp; governance guardrails to them (Azure AI / Azure OpenAI)
+- **Observability**: monitoring, threat detection, and remediation across cloud workloads
 
 ---
 
