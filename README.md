@@ -82,9 +82,9 @@ I'm a **Microsoft MVP (DevOps)** and **Azure Community Champion**, and I care as
 
 ## Community &amp; Content
 
-- 🚀 **Founder &amp; Lead — [DevOps.ng](https://devops.ng)** · a global community of 500+ cloud &amp; DevOps professionals
-- 🎥 **Creator — [TechTalk with Babafemi](https://youtube.com/@techtalkwithbabafemi)** · cloud &amp; DevOps training reaching 10,000+ learners
-- ✍️ **Published** in *The Guardian* and *Nigerian Tribune* on CI/CD and mentoring the next generation of engineers
+- **Founder &amp; Lead — [DevOps.ng](https://devops.ng)** · a global community of 500+ cloud &amp; DevOps professionals
+- **Creator — [TechTalk with Babafemi](https://youtube.com/@techtalkwithbabafemi)** · cloud &amp; DevOps training reaching 10,000+ learners
+- **Published** in *The Guardian* and *Nigerian Tribune* on CI/CD and mentoring the next generation of engineers
 
 ---
 
